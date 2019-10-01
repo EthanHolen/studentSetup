@@ -1,6 +1,6 @@
 # My Student Setup
 
-![](images/Screenshot&#32;2019-09-30&#32;13.45.20.png)
+![](images/titleImg.png)
 
 > My personal device and desk setup as a full-time student and developer.
 
