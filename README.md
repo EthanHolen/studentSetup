@@ -63,15 +63,20 @@
   ##### [Xcode](https://developer.apple.com/xcode/)
 #### Browsers
 - Currently I have a bit of a browser problem. I attempted to switch full time to Safari at the reccomendation of the [Mac Power Users](https://www.relay.fm/mpu), which has quite a few upsides but comes with a few trade offs which have me switching to Firefox and Chrome often.
+- Extentions
+  - [LastPass](https://www.lastpass.com/solutions/business-password-manager)
+  - [Dark Reader](https://darkreader.org/)
+  - [Grammarly](https://app.grammarly.com/) 
+  - [Vimari](https://github.com/televator-apps/vimari) (Safari)/ [Vim Vixen](https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/) (Firefox)
 
   ##### Safari
-    ![](images/Safari.png)
+    <img src="images/Safari.png" width="300" alt="img">
 
   ##### Chrome
-   ![](images/Chrome.png)
+    <img src="images/Chrome.png" width="300" alt="img">
 
   ##### Firefox
-    ![](images/Firefox.png)  
+    <img src="images/Firefox.png" width="300" alt="img">
 
 #### Utilities
 
@@ -81,7 +86,7 @@
  * Workflows
    * [Spotify Workflow](https://github.com/vdesabou/alfred-spotify-mini-player)
 
-      <img src="images/Spotify Workflow.png" width="200" alt="img">
+      <img src="images/Spotify Workflow.png" width="250" alt="img">
 
       * One of my alltime favorite Workflows! 
       * Lets you use Alfred to fully controll Spotify, I rarely ever have to open the actual app anymore.
