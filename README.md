@@ -64,7 +64,7 @@
 
 #### Browsers
 
-- Currently I have a bit of a browser problem. I attempted to switch full time to Safari at the reccomendation of the [Mac Power Users](https://www.relay.fm/mpu), which has quite a few upsides but comes with a few trade offs which have me switching to Firefox and Chrome often.
+- Im constantly switching between these three browsers for different reasons but mostly settle on safari for macos for its speed and light resource usage as well as the reading list which I use often.
 - Extentions
 
   - [LastPass](https://www.lastpass.com/solutions/business-password-manager)
@@ -87,8 +87,10 @@
 #### Utilities
 
 ##### Notion
+  
 
 ##### Alfred
+- Alfred is an incredible replacement for macos spotlight and I use it hundreds of times a day to launch applications and run many of the powerful [Workflows](https://github.com/learn-anything/alfred-workflows#readme) you can find.
 
 - Workflows
 
@@ -148,6 +150,7 @@
 ### IOS
 
 ### Windows 10
+- Currently Im only using windows 10 for gaming on my PC.
 
 ## Hardware
 
