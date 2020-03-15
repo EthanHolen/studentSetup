@@ -151,6 +151,7 @@
 
 ### Windows 10
 - Currently Im only using windows 10 for gaming on my PC.
+- [My specs](https://www.notion.so/Devices-7f411619d1a04e75b1880ee87e9fdf0f#c5f8f08d18594b4dbb5f18088f084aeb)
 
 ## Hardware
 
