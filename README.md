@@ -174,7 +174,8 @@
 
 ### Laptop
 
-- My current Laptop is the 15" MacBook Pro
+- My current Laptop is the 15" MacBook Pro 
+- I love this computer my only regret is not getting enough storage I got the 250 GB version, at the time it seemed like plenty and I wanted to save some money but after constantly having a maxed out drive I really wish I had just spent the extra money at the beginning. 
 
 ### PC
 
